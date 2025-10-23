@@ -1,0 +1,64 @@
+{
+  "duplicateGroups": [
+    {
+      "key": "samsung|galaxys21|128gb",
+      "products": [
+        {
+          "id": "PROD001",
+          "brand": "Samsung",
+          "model": "Galaxy S21",
+          "description": "128GB Black",
+          "supplier": "SUP-A",
+          "source": "existing"
+        },
+        {
+          "id": "NEW001",
+          "brand": "SAMSUNG",
+          "model": "Galaxy S21",
+          "description": "128 GB - Black Color",
+          "supplier": "SUP-C",
+          "source": "new"
+        }
+      ],
+      "confidence": "HIGH"
+    },
+    {
+      "key": "sony|wh1000xm4",
+      "products": [
+        {
+          "id": "PROD003",
+          "brand": "Sony",
+          "model": "WH-1000XM4",
+          "description": "Noise Cancelling Headphones Black",
+          "supplier": "SUP-B",
+          "source": "existing"
+        },
+        {
+          "id": "NEW003",
+          "brand": "Sony",
+          "model": "WH1000XM4",
+          "description": "Noise-Cancelling Headphones (Black)",
+          "supplier": "SUP-C",
+          "source": "new"
+        }
+      ],
+      "confidence": "HIGH"
+    }
+  ],
+  "uniqueProducts": [
+    {
+      "id": "NEW002",
+      "brand": "Apple",
+      "model": "iPhone 13 Pro",
+      "description": "256GB Gold",
+      "supplier": "SUP-D"
+    },
+    {
+      "id": "NEW004",
+      "brand": "LG",
+      "model": "OLED TV 55",
+      "description": "55 inch 4K",
+      "supplier": "SUP-D"
+    }
+  ]
+}

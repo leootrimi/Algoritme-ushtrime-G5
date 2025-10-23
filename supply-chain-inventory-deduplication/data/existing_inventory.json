@@ -1,0 +1,5 @@
+{
+  "PROD001": { "brand": "Samsung", "model": "Galaxy S21", "description": "128GB Black", "supplier": "SUP-A" },
+  "PROD002": { "brand": "Apple", "model": "iPhone 13", "description": "256GB Blue", "supplier": "SUP-A" },
+  "PROD003": { "brand": "Sony", "model": "WH-1000XM4", "description": "Noise Cancelling Headphones Black", "supplier": "SUP-B" }
+}

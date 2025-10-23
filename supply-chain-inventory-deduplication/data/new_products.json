@@ -1,0 +1,6 @@
+{
+  "NEW001": { "brand": "SAMSUNG", "model": "Galaxy S21", "description": "128 GB - Black Color", "supplier": "SUP-C" },
+  "NEW002": { "brand": "Apple", "model": "iPhone 13 Pro", "description": "256GB Gold", "supplier": "SUP-D" },
+  "NEW003": { "brand": "Sony", "model": "WH1000XM4", "description": "Noise-Cancelling Headphones (Black)", "supplier": "SUP-C" },
+  "NEW004": { "brand": "LG", "model": "OLED TV 55", "description": "55 inch 4K", "supplier": "SUP-D" }
+}
